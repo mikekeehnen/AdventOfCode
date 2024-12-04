@@ -1,3 +1,9 @@
 # Python
 .venv
 *.pyc
+
+# Gleam
+*.beam
+*.ez
+*/build
+*erl_crash.dump
